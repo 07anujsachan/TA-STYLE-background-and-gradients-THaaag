@@ -106,10 +106,10 @@ body{
     height: 500px;
     background-size: cover;
     width: 90%;
-    margin:  50px auto;
+    margin:  51px auto;
     font-size: 40px;
     text-transform: uppercase;
     font-weight: 900;
-    border-radius: 10px;
+    border-radius: 11px;
     
 }
